@@ -29,5 +29,5 @@ HOW IT WORKS?
   3. You will find two output files are generated in the current working directory:
         merged_data.txt
         data_with_means.txt 
-   4. Finally, use data <- read.table("data_with_means.txt") command in RStudio to read the file. 
+ 4. Finally, use data <- read.table("data_with_means.txt") command in RStudio to read the file. 
  
