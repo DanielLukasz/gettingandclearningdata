@@ -21,6 +21,7 @@ is downloaded and extracted in the R Home Directory.
 - library(data.table)
 - library(dplyr)
 
+HOW IT WORKS?
 
   1. Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
     Run_analysis.R script in the current working directory.
